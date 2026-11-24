@@ -1,0 +1,8 @@
+.auth-shell { min-height: 100vh; display:grid; place-items:center; background:#0b1120; padding:24px; }
+.auth-card { width:min(420px,100%); padding:32px; border:1px solid #24314b; background:#111827; border-radius:16px; box-shadow:0 20px 50px rgba(0,0,0,.35); }
+.auth-card h1 { margin:0 0 8px; color:#fff; }
+.auth-card p { color:#94a3b8; margin:0 0 24px; }
+.auth-card form { display:grid; gap:14px; }
+.auth-card input { width:100%; padding:12px 14px; border-radius:8px; border:1px solid #334155; background:#0f172a; color:#fff; }
+.auth-card button { padding:12px; border:0; border-radius:8px; background:#2563eb; color:white; font-weight:700; cursor:pointer; }
+.auth-link { display:block; margin-top:16px; text-align:center; color:#93c5fd; }
